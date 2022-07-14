@@ -1,0 +1,25 @@
+.mybtn {
+    padding-left: 1110;
+}
+
+.myTodo{
+    border: 1px solid blue;
+    width: 500px;
+}
+
+.create_todo{
+    border: 1px solid blue;
+    width: 600px;
+}
+
+.my_ratio input{
+   padding-left: 0px;
+   border: 1px solid blue;
+   
+}
+
+.my_list_todo{
+    margin-top: 30px;
+    border: 1px solid blue;
+    width: 600px;
+}
